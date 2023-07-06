@@ -1,2 +1,2 @@
 # navicat-reset-trial
-navicat reset trial shell for mac 
+navicat en reset trial shell for mac 
